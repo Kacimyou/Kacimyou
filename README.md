@@ -1,5 +1,8 @@
-### Hi there 👋
+### Kacim YOUNSI
 
+Incoming MASt in Statistics (Part III) student at University of Cambridge and former ENSAE student. Interested in applied statistics problem, particularly Monte Carlo Simulations.
+
+Currently working at Crédit Agricole as a Machine Learning Intern.
 <!--
 **Kacimyou/Kacimyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
